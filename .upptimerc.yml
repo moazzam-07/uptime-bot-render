@@ -3,8 +3,8 @@ owner: moazzam-07 # Your GitHub organization or username, where this repository 
 repo: uptime-bot-render #  The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: DialerJazz
+    url: https://jazzcaller.demgrow.space/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
